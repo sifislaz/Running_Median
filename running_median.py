@@ -222,7 +222,6 @@ def arrayChanger(arr, minh, maxh, curMed):
 
     
 if __name__ == "__main__":
-    random.seed(1066472)
     curMed = 0
     minh = MinHeap([])
     maxh = MinHeap([],False)
